@@ -1,0 +1,5 @@
+__pycache__/
+
+# Astronomy. 1. Loxodrome
+astronomy/1_loxodrome/data/*.jpg
+astronomy/1_loxodrome/examples/*_highres.html
