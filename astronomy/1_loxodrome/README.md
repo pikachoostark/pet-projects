@@ -77,7 +77,7 @@ python3 src/main.py --loxodromes "0,0,45"
 python3 src/main.py \
     --loxodromes "10,20,5" "0,0,45" "15,60,30" \
     --steps 2000 --step_size 0.05 \
-    --offset 0.03 --line_width 8 --highres
+    --offset 0.03 --highres
 ```
 
 ---
